@@ -1,0 +1,23 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@govbr-ds/core": "3.3.1",
+    "@types/node": "^18.16.2",
+    "@types/react": "18.0.37",
+    "@types/react-dom": "18.0.11",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "7.43.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
